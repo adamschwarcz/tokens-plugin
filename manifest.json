@@ -1,0 +1,8 @@
+{
+  "name": "token_plugin_v2",
+  "id": "1177563572818410319",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": ["figma"],
+  "ui": "ui.html"
+}

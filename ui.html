@@ -1,0 +1,6 @@
+<button id="find">Find styles</button>
+<script>
+  document.getElementById("find").onclick = () => {
+    parent.postMessage({ pluginMessage: { type: "find-styles" } }, "*");
+  };
+</script>
